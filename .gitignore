@@ -1,0 +1,43 @@
+# MATLAB Temporary Files
+
+*.asv
+*.autosave
+*.m~
+*.bak
+
+
+# MATLAB Cache & Generated Files
+
+*.slxc
+*.mex*
+*.p
+*.prj
+*.mlproj
+
+
+# MATLAB Workspace & Data Files
+
+*.mat
+
+
+# Operating System Files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+# Editor Files
+
+.vscode/
+.idea/
+
+
+# Log Files
+
+*.log
+
+
+# Backup Files
+
+*~
