@@ -90,10 +90,10 @@ Similar-Face-Recognition-Using-IE-CNN/
 The system evaluates recognition performance using standard performance metrics including:
 
 - Recognition Accuracy
-- Precision
-- Recall
-- F1-Score
-- Kappa Coefficient
+- Specificity
+- Senstivity
+- Performance Chart
+
 
 
 
