@@ -41,7 +41,7 @@ The application detects facial regions, extracts significant facial components, 
 
 ## Project Structure
 
-
+```
 Similar-Face-Recognition-Using-IE-CNN/
 │
 ├── Main_GUI.m                # Main GUI implementation
@@ -57,6 +57,8 @@ Similar-Face-Recognition-Using-IE-CNN/
 ├── README.md
 └── .gitignore
 ```
+
+---
 
 
 # System Workflow
